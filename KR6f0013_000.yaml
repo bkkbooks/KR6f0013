@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0013/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說護國尊者所問大乘經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0321.xml
+    old_id: T12n0321
+hash: sha256:46f7eb9cdc0b808af96916c4e121f61248ebaad716bd70750c8adb91dc170522

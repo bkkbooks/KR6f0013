@@ -1,0 +1,80 @@
+canonical_identifier: bkk:krp/KR6f0013/T/v1
+canonical_location: https://kanripo.org/bkk/KR6f0013/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說護國尊者所問大乘經
+  identifiers:
+    krp: KR6f0013
+    cbeta: T12n0321
+    cbeta_old_id: T12n0321
+    authorityid: CA0001347
+    json_key: T0321
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0321.xml
+    old_id: T12n0321
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0013_000-T.yaml, hash: 'sha256:46f7eb9cdc0b808af96916c4e121f61248ebaad716bd70750c8adb91dc170522'}
+  - {seq: 1, filename: KR6f0013_001-T.yaml, hash: 'sha256:d22a87cd861795f771b44162249ecb74fef4cf1a67472aadcee63bd0cf105054'}
+  - {seq: 2, filename: KR6f0013_002-T.yaml, hash: 'sha256:d3996b03ad0b051fe3debd8d24b53d3b9f2aba087bb96667ba730731848df50e'}
+  - {seq: 3, filename: KR6f0013_003-T.yaml, hash: 'sha256:21243bce4aa2fb5a0c8f42cf35701e7495642f92bf3ab855f0df424bb1fcd87f'}
+  - {seq: 4, filename: KR6f0013_004-T.yaml, hash: 'sha256:c050f014e2056d17fabb478829c203a7528830b57ef28010cfa990e7177e038f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6f0013_000-T.markers.yaml, hash: 'sha256:d282a290fd97ad9c5b09c3a9c3291daaa8061ab1489ff279ae6a24c24295484a'}
+  - {seq: 1, role: markers, filename: assets/KR6f0013_001-T.markers.yaml, hash: 'sha256:6a7310a67fbf8843a0cff4660ebb4623a948e6e29420ef0527cd1b0e3a5724e3'}
+  - {seq: 2, role: markers, filename: assets/KR6f0013_002-T.markers.yaml, hash: 'sha256:b2de8a3d564e908d8c1fb5f40b932a69e2cb35783ddea866d0018c940b97df05'}
+  - {seq: 3, role: markers, filename: assets/KR6f0013_003-T.markers.yaml, hash: 'sha256:70feb996d2c0aa58044d4289aac260080f015e414ee0bdc9ea621d12928b90fd'}
+  - {seq: 4, role: markers, filename: assets/KR6f0013_004-T.markers.yaml, hash: 'sha256:6a273a1de76c00da0390f1a0bc9838fb6d3e150712a831a4541c606574c0a1e8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0013_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5009
+  label: '佛說護國尊者所問大乘經卷第
+
+    一'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0013_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 4299
+  label: 佛說護國尊者所問經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6f0013_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 3455
+  label: '佛說護國尊者所問大乘經卷第
+
+    三'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6f0013_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 3806
+  label: '佛說護國尊者所問大乘經卷第
+
+    四'
+  type: juan
+  level: 1
+hash: sha256:d3427dc937e8f0bf18f0ec1c80418cbe94fd347a5e3353d8d477e25051e09869
