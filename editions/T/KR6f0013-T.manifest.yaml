@@ -25,7 +25,7 @@ assets:
   - {seq: 3, filename: KR6f0013_003-T.yaml, hash: 'sha256:21243bce4aa2fb5a0c8f42cf35701e7495642f92bf3ab855f0df424bb1fcd87f'}
   - {seq: 4, filename: KR6f0013_004-T.yaml, hash: 'sha256:c050f014e2056d17fabb478829c203a7528830b57ef28010cfa990e7177e038f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0013_000-T.markers.yaml, hash: 'sha256:d282a290fd97ad9c5b09c3a9c3291daaa8061ab1489ff279ae6a24c24295484a'}
+  - {seq: 0, role: markers, filename: assets/KR6f0013_000-T.markers.yaml, hash: 'sha256:b4a7468e4bd5a47bd2337a5c6ec971c2e57ab619892a8cc943ba2567edd24dcc'}
   - {seq: 1, role: markers, filename: assets/KR6f0013_001-T.markers.yaml, hash: 'sha256:6a7310a67fbf8843a0cff4660ebb4623a948e6e29420ef0527cd1b0e3a5724e3'}
   - {seq: 2, role: markers, filename: assets/KR6f0013_002-T.markers.yaml, hash: 'sha256:b2de8a3d564e908d8c1fb5f40b932a69e2cb35783ddea866d0018c940b97df05'}
   - {seq: 3, role: markers, filename: assets/KR6f0013_003-T.markers.yaml, hash: 'sha256:70feb996d2c0aa58044d4289aac260080f015e414ee0bdc9ea621d12928b90fd'}
@@ -77,4 +77,4 @@ table_of_contents:
     四'
   type: juan
   level: 1
-hash: sha256:d3427dc937e8f0bf18f0ec1c80418cbe94fd347a5e3353d8d477e25051e09869
+hash: sha256:648243f6e14c05aea9138143caa24dc3124b40f10e528a9fdc3eb91d9de5663b
